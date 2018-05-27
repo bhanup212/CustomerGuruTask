@@ -6,6 +6,6 @@ Simple form validation android app
    3. email id validation
    4. spinner validation
    
-   ![(https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot1.png)]
-   ![(https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot2.png)]
-   ![(https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot3.png)]
+   ![field error](https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot1.png)
+   ![field validation](https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot2.png)
+   ![user details in dialog](https://github.com/bhanup212/CustomerGuruTask/blob/master/screenshot3.png)
